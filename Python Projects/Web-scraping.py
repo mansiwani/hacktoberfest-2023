@@ -1,3 +1,8 @@
+#Libraries required - requests,
+#pip install beautifulsoup4
+#pip install requests
+
+
 import requests
 from bs4 import BeautifulSoup
 
